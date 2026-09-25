@@ -1,0 +1,16 @@
+{
+  "risk":{"label":"Kentsel Dönüşüm Başkanlığı — Riskli yapı süreci","url":"https://kdb.gov.tr/Mevzuat?uniq=c6db6650-9348-42dd-bffe-6ab4977787cf"},
+  "law6306":{"label":"6306 sayılı Kanun, m. 3, 5 ve 6 — Mevzuat Bilgi Sistemi","url":"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6306.pdf"},
+  "reg6306":{"label":"6306 sayılı Kanunun Uygulama Yönetmeliği — Mevzuat Bilgi Sistemi","url":"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16849&MevzuatTur=7&MevzuatTertip=5"},
+  "tbk":{"label":"6098 sayılı Türk Borçlar Kanunu — Mevzuat Bilgi Sistemi","url":"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"},
+  "tbkcurrent":{"label":"6098 sayılı Türk Borçlar Kanunu, m. 344–345 — Mevzuat Bilgi Sistemi","url":"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"},
+  "tmk":{"label":"4721 sayılı Türk Medeni Kanunu — Mevzuat Bilgi Sistemi","url":"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"},
+  "trade":{"label":"Ticaret Bakanlığı — Şirketler ve ticaret sicili mevzuatı (6102 sayılı Kanun)","url":"https://www.ticaret.gov.tr/ic-ticaret/mevzuat/sirketler-ve-ticaret-sicili"},
+  "company":{"label":"Ticaret Bakanlığı — Şirketler hakkında sıkça sorulan sorular","url":"https://www.ticaret.gov.tr/ic-ticaret/sikca-sorulan-sorular/sirketler"},
+  "mediation":{"label":"Adalet Bakanlığı — Dava şartı arabuluculuk hakkında sorular","url":"https://adb.adalet.gov.tr/Home/SSSorularDetay/2"},
+  "law6325":{"label":"6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu, m. 18 ve devamı","url":"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6325.pdf"},
+  "kat":{"label":"Tapu ve Kadastro Genel Müdürlüğü — Kat mülkiyeti tesisi","url":"https://www.tkgm.gov.tr/sites/default/files/2020-12/kat_mulkiyeti.pdf"},
+  "kmk":{"label":"634 sayılı Kat Mülkiyeti Kanunu, m. 20, 22, 28, 33 ve 37","url":"https://www.mevzuat.gov.tr/MevzuatMetin/1.5.634.pdf"},
+  "tapu":{"label":"Cumhurbaşkanlığı Yatırım ve Finans Ofisi — Gayrimenkul edinimi","url":"https://www.invest.gov.tr/tr/investmentguide/sayfalar/acquiring-property-and-citizenship.aspx"},
+  "iik":{"label":"Adalet Bakanlığı İcra İşleri Dairesi — İcra ve İflas Kanunu ve Tebligat Kanunu","url":"https://iidb.adalet.gov.tr/Home/SayfaDetay/kanun-ve-yonetmelikler"}
+}

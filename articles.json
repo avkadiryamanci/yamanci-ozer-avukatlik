@@ -1,0 +1,182 @@
+[
+  {
+    "slug":"riskli-yapi-tespiti-ve-itiraz", "title":"Riskli yapı tespiti: başvuru, bildirim ve itiraz", "author":"Av. Arb. Kadir Yamancı", "category":"Kentsel Dönüşüm", "guide":true,
+    "summary":"Riskli yapı raporunun hazırlanmasından itirazın değerlendirilmesine kadar malikin takip etmesi gereken hukuki aşamalar.",
+    "sections":[
+      ["Tespitin hukuki niteliği","6306 sayılı Kanun kapsamındaki riskli yapı tespiti, binanın yenilenmesine ilişkin özel hukuk anlaşmasından ayrı bir idari süreçtir. Maliklerden birinin veya kanuni temsilcisinin yetkili kuruluşa başvurmasıyla başlayabilir. Tespit yaptırılması için bütün maliklerin yüklenici ve proje üzerinde önceden anlaşmış olması aranmaz. Teknik incelemenin, ilgili esaslara uygun rapor ve yetkili kuruluş eliyle yürütülmesi gerekir."],
+      ["Bildirim ve itirazın takibi","Riskli yapı tespitine karşı maliklerin veya kanuni temsilcilerinin on beş günlük itiraz hakkı vardır. Bu sürenin başlangıcı, dosyadaki usulüne uygun tebligat ve ilan işlemleri üzerinden belirlenmelidir. Raporun öğrenildiği gün ile hukuken tebliğ edilmiş sayıldığı gün her zaman aynı değildir. İtirazda yalnızca binanın sağlam olduğu kanaatini belirtmek yerine teknik rapordaki somut eksikliklerin gösterilmesi ve ilgili belgelerin sunulması önem taşır."],
+      ["Dosyada bulunması gereken kayıtlar","Malikler; tespit raporunun örneğini, başvuru evrakını, bildirim ve ilan kayıtlarını, varsa itiraz dilekçesini ve değerlendirme sonucunu birlikte saklamalıdır. İdari itiraz ile dava yolunun koşulları ve süreleri ayrı değerlendirilir. Dava açılması tek başına işlemin uygulanmasını durdurmaz; yürütmenin durdurulması meselesi ayrıca incelenir."],
+      ["Uygulamaya yönelik değerlendirme","Riskli yapı kararı, belirli bir müteahhitle sözleşme imzalama zorunluluğu anlamına gelmez. Bununla birlikte tespitin kesinleşmesi tahliye ve yıkım yönünden önemli sonuçlar doğurur. Teknik tespit, maliklerin proje kararı ve yüklenici sözleşmesi için ayrı dosya oluşturulması, süreçlerin birbirine karıştırılmasını önler."]
+    ],"sources":["risk","law6306"]
+  },
+  {
+    "slug":"salt-cogunluk-ve-ortak-karar", "title":"Kentsel dönüşümde salt çoğunluk ve ortak karar tutanağı", "author":"Av. Arb. Kadir Yamancı", "category":"Kentsel Dönüşüm", "guide":true,
+    "summary":"Çoğunluğun arsa payına göre hesaplanması, toplantı usulü ve karar dosyasının oluşturulması.",
+    "sections":[
+      ["Çoğunluk nasıl hesaplanır?","6306 sayılı Kanun kapsamındaki uygulama kararlarında esas alınan ölçüt, maliklerin sahip oldukları hisseler oranındaki salt çoğunluktur. Bu, toplam arsa payının yarısından fazlasının kararı desteklemesi anlamına gelir. Daire veya toplantıya katılan kişi sayısını saymak tek başına yeterli değildir. Örneğin toplamı 1.000 olan arsa paylarında 500 pay çoğunluk oluşturmaz; 500'ü aşan payın sağlanması gerekir."],
+      ["Toplantı ile sözleşmenin ayrılması","Toplantı çağrısı, kararın alınması ve karara katılmayanlara uygulama teklifinin bildirilmesi farklı aşamalardır. Her aşama için öngörülen usul kendi içinde yerine getirilmelidir. 2026 yılında düzenlenen toplantı usulü de dikkate alınarak çağrı, ilan ve katılım belgeleri muhafaza edilmelidir. Bir aşamanın bildirimi, diğer aşamanın bildirimi yerine geçirilmemelidir."],
+      ["Ortak karar dosyası","Tutanakta parsel bilgileri, katılan maliklerin payları, temsil belgeleri, kabul edilen proje ve yüklenici teklifinin kapsamı açıkça yer almalıdır. Paylaşım çizelgesi ve sözleşme taslağının hangi sürümünün kabul edildiği belirlenmelidir. Karar metni ile sonradan imzalanan sözleşmenin esaslı hükümlerinin farklılaşması, kararın kapsamına ilişkin uyuşmazlık doğurabilir."],
+      ["Çoğunluğun yetkisinin sınırı","Çoğunluk kararı alınması, azınlıktaki maliklerin mülkiyetinin kendiliğinden sona ermesi sonucunu doğurmaz. Karara katılmayan paylar bakımından değerleme, bildirim ve satış hükümlerinin ayrıca uygulanması gerekir. Temsilciler heyetinin seçilmiş olması da kendiliğinden her türlü tapu işlemini yapma yetkisi vermez; temsilin kapsamı ayrı incelenir."]
+    ],"sources":["risk","law6306","reg6306"]
+  },
+  {
+    "slug":"kentsel-donusum-muteahhit-secimi", "title":"Müteahhit seçiminde tekliflerin hukuki açıdan karşılaştırılması", "author":"Av. Arb. Kadir Yamancı", "category":"Kentsel Dönüşüm", "guide":true,
+    "summary":"Metrekare, ödeme, teminat ve teslim koşullarını aynı ölçütlerle değerlendirmenin önemi.",
+    "sections":[
+      ["İmar verisi olmadan teklif değerlendirilmez","Yüklenici seçiminin başlangıç noktası, taşınmazın güncel imar koşullarının ve mevcut mülkiyet yapısının belirlenmesidir. Parselde yapılabilecek inşaat alanı, kullanım türü, otopark ve ortak alan yükümlülükleri teknik uzmanlar tarafından incelenmelidir. Henüz onaylanmamış bir proje varsayımının kesin kazanım gibi sunulması, maliklerin beklentileri ile uygulanabilir proje arasında fark yaratabilir."],
+      ["Teklifleri ortak bir zemine getirmek","Tekliflerde kullanılan net alan, bağımsız bölüm brüt alanı ve ortak alan dahil toplam alan aynı şeyi ifade etmez. Maliklere kalacak bölümlerin katı, cephesi, eklentileri ve kullanım özellikleriyle birlikte karşılaştırma yapılmalıdır. İlave ödeme, vergi ve harç paylaşımı, kira desteği, fiyat değişikliği ve ruhsat gecikmesi hükümleri ayrıca gösterilmelidir. Yüksek metrekare vaadi, diğer yükümlülüklerden bağımsız değerlendirilmemelidir."],
+      ["Sözleşmenin tarafını tanımak","Şirketin ticaret unvanı, temsil yetkileri, tamamladığı projeler ve finansman kapasitesi incelenmelidir. Tanıtımda kullanılan marka ile sözleşmeyi imzalayacak şirketin aynı hukuki kişi olup olmadığı kontrol edilmelidir. Grup şirketi veya ortakların varlığı, ayrıca geçerli bir taahhüt verilmedikçe sözleşmeden otomatik sorumluluk doğurduğu şeklinde yorumlanmamalıdır."],
+      ["Seçimin belgelendirilmesi","Malikler için bir teklif karşılaştırma çizelgesi hazırlanması; bedel, teslim takvimi, teminat ve teknik şartnamenin birlikte görülmesini sağlar. Görüşmelerde kabul edilen değişiklikler sözleşme eklerine işlenmelidir. Temsilciler heyetinin görüşme yürütmesi ile malik adına borçlandırıcı işlem yapması arasındaki yetki farkı korunmalıdır."]
+    ],"sources":["trade","tbk","risk"]
+  },
+  {
+    "slug":"donusum-sozlesmesinde-teminat-ve-teslim", "title":"Kentsel dönüşüm sözleşmesinde teminat, ödeme ve teslim hükümleri", "author":"Av. Arb. Kadir Yamancı", "category":"Kentsel Dönüşüm", "guide":true,
+    "summary":"Noter sözleşmesinin ekleri, inşaat takvimi ve teminatların kapsamı nasıl düzenlenmeli?",
+    "sections":[
+      ["Şekil şartı ve sözleşme ekleri","Arsa payı devri veya taşınmaz satış vaadi içeren inşaat sözleşmelerinde kanuni şekil şartları gözetilmelidir. Sözleşmenin yalnızca başlığının noter sözleşmesi olması yeterli değildir; işlemin niteliğine uygun resmi şekil sağlanmalıdır. Bağımsız bölüm paylaşımı, teknik şartname, ödeme planı ve proje ekleri imzalanan metinle açık biçimde ilişkilendirilmelidir."],
+      ["Takvimde başlangıç olayını tanımlamak","İnşaat süresinin hangi olayla başlayacağı belirsiz bırakılmamalıdır. Boş arsa teslimi, ruhsat başvurusu, ruhsat alınması ve fiili inşaata başlama farklı tarihlerdir. Bunların her biri için yükümlü taraf ve belge düzeni belirlenmelidir. Ruhsatın henüz alınmamış olması, yüklenicinin süresiz biçimde bekleyebileceği sonucuna yol açacak şekilde düzenlenmemelidir."],
+      ["Teminatın kullanılabilirliği","Teminat ipoteği, banka teminat mektubu veya sigorta gibi araçların yalnızca tutarı değil, kapsamı ve kullanılma koşulları da önemlidir. İpoteğin derecesi, önceki takyidatlar ve teminat verilen borçlar; mektubun süresi ve talep koşulları ayrı incelenmelidir. Teminatın azaltılması veya kaldırılması somut ilerleme ve kabul ölçütlerine bağlanmalıdır."],
+      ["Teslim ve gecikmenin sonuçları","Fiziki anahtar teslimi, yapı kullanma izni ve tapu işlemlerinin tamamlanması sözleşmede ayrı ayrı ele alınmalıdır. Gecikme tazminatı, cezai şart ve kira ödemesinin hangi koşullarda birlikte veya ayrı talep edileceği açıklaştırılmalıdır. Mücbir sebep maddesi, olayın işe etkisini ve bildirim yükümlülüğünü içermelidir. Sözleşmeye yazılan her cezanın her durumda aynen uygulanacağı varsayılmamalıdır."]
+    ],"sources":["tbk","law6306"]
+  },
+  {
+    "slug":"riskli-yapida-tahliye-ve-yikim", "title":"Riskli yapıda tahliye ve yıkım: teslim tutanağının önemi", "author":"Av. Arb. Kadir Yamancı", "category":"Kentsel Dönüşüm", "guide":true,
+    "summary":"İdari tahliye takvimi, kiracının durumu ve binanın güvenli biçimde teslim edilmesi.",
+    "sections":[
+      ["İdari süre ile sözleşmesel süre","Riskli yapının tahliye ve yıkımı, 6306 sayılı Kanunun özel hükümlerine tabidir. İdarece verilen süre ile malik ve yüklenici arasındaki sözleşmede öngörülen teslim süresi aynı hukuki kaynaktan doğmaz. Maliklere yıkım için doksan günden fazla olmamak üzere süre verilebilmesi, her dosyada mutlaka doksan gün beklenebileceği anlamına gelmez. Somut bildirimdeki tarih ve yükümlülükler esas alınmalıdır."],
+      ["Kiracı ve fiili kullanıcıların durumu","Binada kiracı veya başka bir kullanıcı bulunması halinde bildirimler ve tahliye hazırlığı bu kişilerin durumunu da kapsamalıdır. Riskli yapı işlemi, kira ilişkisinden kaynaklanan her talebi kendiliğinden ortadan kaldırmaz. Depozito, peşin kira, giderler ve varsa tazminat talepleri kendi hukuki dayanaklarıyla değerlendirilir. Malik ile kiracının birbirine karşı borçları, idari yıkım işlemiyle karıştırılmamalıdır."],
+      ["Anahtar teslimini kayıt altına almak","Teslim tutanağında bağımsız bölüm, teslim tarihi, anahtar sayısı ve bölümün boşaltılma durumu yer almalıdır. Sayaç değerleri, abonelik başvuruları ve fotoğraflar eklenebilir. Ortak alanlarda bulunan eşya ve tesisat için yetkili kişilerce ayrıca tespit yapılması yararlıdır. Yıkım sahasına erişim ve güvenlik tedbirleri yüklenici ile ilgili idarenin görevleri çerçevesinde planlanmalıdır."],
+      ["Sorumluluk peşinen ortadan kalkmaz","Tahliye sonrası ortaya çıkan her zararın koşulsuz biçimde malike ait olduğu söylenemez. Zararın sebebi, kusur, yüklenicinin üstlendiği edimler ve idarenin işlemleri ayrı incelenir. Teslim tutanağında genel ve belirsiz bir ibra yerine gerçekleşen teslimin somut durumunun yazılması, sonradan doğabilecek uyuşmazlıklarda ispatı kolaylaştırır."]
+    ],"sources":["law6306","reg6306","tbk"]
+  },
+  {
+    "slug":"yeni-yapida-teslim-iskan-kat-mulkiyeti", "title":"Yeni yapıda teslim, iskan ve kat mülkiyetine geçiş", "author":"Av. Arb. Kadir Yamancı", "category":"Kentsel Dönüşüm", "guide":true,
+    "summary":"Anahtarın alınmasıyla tamamlanmayan süreç: eksik işler, ayıplar, ortak alanlar ve tapu kayıtları.",
+    "sections":[
+      ["Üç farklı aşama","Bağımsız bölümün fiilen teslimi, yapı kullanma izin belgesinin alınması ve kat mülkiyetine geçiş birbiriyle ilişkili, ancak farklı işlemlerdir. Anahtarın alınmış olması diğer işlemlerin tamamlandığını göstermez. Sözleşmedeki teslim tanımı, onaylı proje ve tapu kayıtları birlikte değerlendirilmelidir. İnşaat sırasında kurulan kat irtifakı ile tamamlanmış yapı üzerindeki kat mülkiyeti de aynı hukuki statü değildir."],
+      ["Teknik inceleme ve eksik listesi","Teslimden önce bağımsız bölümün teknik şartnameyle karşılaştırılması; tesisat, yalıtım, kapı, pencere ve sabit imalatların kontrolü yararlıdır. Ortak alanlar, asansör, otopark ve çevre düzenlemesi de değerlendirmeye alınmalıdır. Eksikliklerin fotoğraflı ve tarihli tutanakla gösterilmesi, giderim süresinin belirlenmesi ve tutanağın yetkili kişilere iletilmesi gerekir."],
+      ["Ayıp bildirimi ve kabul","Eser sözleşmesine ilişkin inceleme ve ayıp bildirimi hükümleri, teslim sonrasında hakların kullanılmasında önem taşır. Açık ayıplarla sonradan ortaya çıkan gizli ayıpların değerlendirilmesi farklılaşabilir. Genel bir 'eksiksiz teslim aldım' kaydı imzalanmadan önce gerçek durum kontrol edilmelidir. Çekincesiz kabulün ve bildirimin geciktirilmesinin sonuçları somut sözleşme ve ayıbın niteliğine göre incelenir."],
+      ["Tapu ve yönetim belgeleri","Bağımsız bölüm numarası, arsa payı, eklenti ve yönetim planındaki kullanım düzeni kontrol edilmelidir. İskan ve kat mülkiyeti işlemleri için eksik belgelerin kim tarafından tamamlanacağı izlenmelidir. Teminatların kaldırılması ve son ödemenin yapılması, sözleşmede kararlaştırılmış kabul şartları ile birlikte ele alınmalıdır. Teslim sonrası da sözleşme, proje ve tutanakların düzenli saklanması önemini korur."]
+    ],"sources":["kat","tbk"]
+  },
+  {
+    "slug":"tasinmaz-aliminda-hukuki-inceleme", "title":"Taşınmaz satın almadan önce hukuki inceleme", "author":"Av. Arb. Kadir Yamancı", "category":"Gayrimenkul Hukuku",
+    "summary":"Tapu kaydı, takyidatlar ve fiili kullanımın birlikte değerlendirilmesi.",
+    "sections":[
+      ["Tapu bilgisi ile fiili durum","Satın alınacak taşınmazın ada, parsel ve bağımsız bölüm bilgileri, yerinde görülen taşınmazla karşılaştırılmalıdır. Pazarlama ilanındaki kullanım veya metrekare açıklaması tek başına hukuki güvence sağlamaz. Onaylı proje, bağımsız bölüm niteliği ve varsa eklentiler incelenmelidir. Tapu kaydındaki arsa payı, dairenin fiili alanıyla aynı kavram değildir."],
+      ["Takyidat incelemesi","İpotek, haciz, intifa hakkı, şerh veya tedbir gibi kayıtlar taşınmazdan yararlanmayı ve tasarruf imkanını etkileyebilir. Her kayıt aynı sonucu doğurmaz; bazıları devre engel oluştururken bazıları taşınmaz üzerinde devam eder. Kaydın türü, dayandığı belge ve terkin koşulları belirlenmeden yalnızca satıcının açıklamasına dayanarak işlem yapılmamalıdır."],
+      ["Ödeme ve temsil belgeleri","Satıcı adına hareket eden kişinin yetkisinin işlem kapsamına uygun olup olmadığı kontrol edilmelidir. Bedelin hangi aşamada, kime ve hangi açıklamayla ödeneceği yazılı olarak belirlenmelidir. Kapora veya ön ödeme belgesinde taşınmaz açıkça gösterilmeli; satış gerçekleşmediğinde bedelin ne olacağı düzenlenmelidir. Taşınmaz devri ve satış vaadinin kanuni şekil şartları ayrıca gözetilmelidir."],
+      ["Teslim koşulları","Taşınmazın kiracılı olması, boş teslim vaadi ve devam eden kullanım ilişkileri ayrı incelenmelidir. Anahtar teslimi, aidat ve abonelik hesaplaşması yazılılaştırılmalıdır. Hukuki incelemenin amacı, her kaydı satış engeli saymak değil; alıcının üstleneceği yükümlülükleri işlemden önce görünür hale getirmektir."]
+    ],"sources":["tapu","tbk"]
+  },
+  {
+    "slug":"sozlesme-imzalamadan-once", "title":"Sözleşme imzalamadan önce incelenmesi gereken temel hükümler", "author":"Av. Arb. Kadir Yamancı", "category":"Sözleşmeler Hukuku",
+    "summary":"Taraf, edim, bedel, süre ve fesih hükümlerini aynı bütünün parçaları olarak okumak.",
+    "sections":[
+      ["Taraf ve edimin açıklığı","Bir sözleşme incelenirken ilk olarak kimin, kime, hangi işi yapmayı taahhüt ettiği belirlenmelidir. Ticaret unvanı, temsil yetkisi, işin kapsamı ve sözleşme ekleri eksiksiz olmalıdır. İleride kararlaştırılacak iş tanımları veya belirsiz hizmet kapsamı, ücretin hangi faaliyeti karşıladığı konusunda uyuşmazlık yaratabilir."],
+      ["Bedel ile ödeme koşulları","Vergilerin bedele dahil olup olmadığı, ek işlerin nasıl onaylanacağı ve ödeme için hangi belgenin aranacağı düzenlenmelidir. İşin ilerlemesine bağlı ödemelerde ilerlemeyi kimin tespit edeceği açıklanmalıdır. Peşin ödeme yapılıyorsa bunun teminatı, iade koşulları ve sözleşmenin erken sona ermesi halinde hesaplaşma yöntemi değerlendirilmelidir."],
+      ["Hazır metinlerin sınırları","Önceden hazırlanmış sözleşme hükümleri, genel işlem koşullarına ilişkin denetime tabi olabilir. Bir hükmün imzalı metinde bulunması, her durumda geçerli ve uygulanabilir olduğu anlamına gelmez. Özellikle tek taraflı değişiklik yetkisi, sorumsuzluk, cezai şart ve hak kaybı doğuran kayıtlar ayrı incelenmelidir. Kanunun emredici hükümleri sözleşme serbestisinin sınırını oluşturur."],
+      ["Uyuşmazlık çıkmadan belge düzeni","Bildirim adresleri ve kullanılacak iletişim yöntemleri belirlenmelidir. Teslim, kabul ve eksiklik bildirimi için yazılı süreç kurulması, yalnızca dava aşamasında değil işin yürütülmesinde de yarar sağlar. Fesih şartları, süre verilmesi gerekip gerekmediği ve sona erme sonrasındaki ödeme yükümlülükleri birbiriyle uyumlu düzenlenmelidir. Son sürümün bütün ekleriyle birlikte saklanması incelemenin son adımıdır."]
+    ],"sources":["tbk"]
+  },
+  {
+    "slug":"arabuluculukta-anlasma-belgesi", "title":"Arabuluculukta anlaşma belgesinin kapsamı ve icra edilebilirliği", "author":"Av. Arb. Ferdi Özer", "category":"Arabuluculuk",
+    "summary":"Görüşmelerde ulaşılan uzlaşmanın açık, uygulanabilir ve uyuşmazlığı karşılayan bir metne dönüştürülmesi.",
+    "sections":[
+      ["Başvuru zorunluluğu ve anlaşma iradesi","Bazı özel hukuk uyuşmazlıklarında dava açmadan önce arabuluculuğa başvurulması dava şartıdır. Başvuru zorunluluğu, tarafların mutlaka anlaşmak zorunda olduğu anlamına gelmez. Arabulucu tarafsız bir üçüncü kişidir; taraflardan birinin avukatı olarak hareket etmez ve uyuşmazlık hakkında mahkeme gibi karar vermez."],
+      ["Anlaşmanın sınırlarını belirlemek","Metinde uyuşmazlığın konusu, taraflar ve üzerinde uzlaşılan talepler tereddüde yer vermeyecek biçimde gösterilmelidir. Ödeme tutarı, vade, banka hesabı, taksitlerin aksaması ve masrafların paylaşımı açık olmalıdır. Kısmi anlaşma sağlanmışsa hangi taleplerin açık kaldığı ayrıca belirtilmelidir. Genel bir ibra ifadesinin hangi alacakları kapsadığı belirsiz bırakılmamalıdır."],
+      ["İmza ve temsil yetkisi","Şirket veya kişi adına katılan temsilcinin sulh ve arabuluculuk bakımından gerekli yetkileri kontrol edilmelidir. Anlaşma belgesinin ilam niteliğinde belge sayılması ve icra edilebilirlik şerhi gerekip gerekmediği; uyuşmazlık türüne, imzalayanlara ve özel kanuni kurallara bağlıdır. Özellikle taşınmazla ilgili anlaşmalarda ek şekil ve denetim koşulları ayrıca incelenmelidir."],
+      ["İfa planı","Anlaşmaya varılan konularda yeniden dava açılmasının sınırları bulunduğundan metin imzalanmadan önce kapsamın anlaşılması önemlidir. Tarafın ödeme gücü, vadelerin gerçekçiliği ve teminatların uygulanabilirliği değerlendirilmelidir. İyi hazırlanmış bir anlaşma belgesi, görüşme sonucunu kaydetmekle kalmaz; tarafların bundan sonra hangi adımları atacağını da açıkça belirler."]
+    ],"sources":["mediation","law6325"]
+  },
+  {
+    "slug":"sirketlerde-temsil-ve-imza-yetkisi", "title":"Şirketlerle sözleşme yaparken temsil ve imza yetkisi", "author":"Av. Arb. Ferdi Özer", "category":"Şirketler Hukuku",
+    "summary":"Şirket kaşesi, imza sirküleri ve ticaret sicilinin birlikte incelenmesi neden önemlidir?",
+    "sections":[
+      ["Doğru hukuki kişiyi belirlemek","Sözleşmenin tarafı şirketin tam ticaret unvanı, sicil ve vergi bilgileriyle tanımlanmalıdır. Aynı marka altında faaliyet gösteren şirketler ayrı tüzel kişiler olabilir. Teklif gönderen işletme, faturayı düzenleyen şirket ve sözleşmeyi üstlenen taraf farklıysa bu farkın hukuki ve mali sonuçları açıklığa kavuşturulmalıdır."],
+      ["Yetkinin güncelliği","Sözleşmeyi imzalayan kişinin şirketi temsile yetkili olup olmadığı güncel ticaret sicili kayıtları, ilgili organ kararları ve temsil belgeleri üzerinden incelenmelidir. Münferit veya müşterek temsil düzeni önemlidir. Kaşe bulunması, imzalayanın yetkili olduğunu tek başına kanıtlamaz. Eski tarihli bir imza sirküleri de sonradan yapılan yetki değişikliklerini göstermeyebilir."],
+      ["Şirket türü ve işlem niteliği","Anonim ve limited şirketlerde yönetim, temsil ve organların görevleri aynı değildir. İşlemin niteliğine göre şirket içi karar gerekip gerekmediği ayrıca değerlendirilmelidir. Temsil yetkisine getirilen her iç sınırlamanın üçüncü kişilere karşı ileri sürülebileceği varsayılmamalıdır; tescil ve ilan ile üçüncü kişinin durumu birlikte incelenir."],
+      ["Uygulamada belge dosyası","Sözleşme dosyasında temsil dayanaklarının tarihli örnekleri bulunmalıdır. Teminat veya kefalet alınacaksa bunu veren kişinin ayrıca ve geçerli biçimde yükümlülük üstlenmesi sağlanmalıdır. Şirket ortağının görüşmelere katılması, şirket borcundan şahsen sorumlu olduğu anlamına gelmez. İşlem öncesinde yapılan yetki kontrolü, sonradan doğabilecek bağlayıcılık tartışmalarını azaltır."]
+    ],"sources":["trade","company"]
+  },
+  {
+    "slug":"ticari-alacaklarda-belge-duzeni", "title":"Ticari alacakların tahsilinde sözleşme ve belge düzeni", "author":"Av. Görkem Mehmet Güneş", "category":"Ticaret Hukuku",
+    "summary":"Alacağın doğumu, teslim ve ödeme sürecini birlikte gösteren dosya nasıl oluşturulur?",
+    "sections":[
+      ["Alacak hangi ilişkiden doğuyor?","Ticari alacağın değerlendirilmesi, yalnızca açık hesap bakiyesinin belirlenmesinden ibaret değildir. Önce satış, hizmet, eser veya başka bir sözleşme ilişkisi ve tarafların yükümlülükleri belirlenmelidir. Siparişin kim tarafından verildiği, bedelin nasıl kararlaştırıldığı ve işin hangi koşullarla tamamlandığı belgelenmelidir."],
+      ["Fatura ile teslimin birlikte ispatı","Fatura önemli bir ticari belgedir; ancak uyuşmazlığın niteliğine göre sözleşme, teslim belgesi, irsaliye, kabul tutanağı ve yazışmalarla birlikte değerlendirilir. Elektronik fatura kayıtları ile fiili teslim kayıtlarının eşleştirilmesi yararlıdır. Fatura içeriğine itiraz, ayıp bildirimi ve borcun ödendiği savunması farklı hukuki meselelerdir; aynı süre ve usule tabi oldukları varsayılmamalıdır."],
+      ["Hesaplaşma ve ihtar","Kısmi ödemelerin hangi borca mahsup edildiği, iade ve indirimlerin hesabı nasıl etkilediği gösterilmelidir. Alacak talebinde anapara, işlemiş faiz ve diğer kalemlerin ayrılması gerekir. İhtarın muhatabı, talep edilen edim ve ödeme süresi belirlenirken sözleşme ile temerrüt hükümleri birlikte incelenmelidir. Tartışmalı bir bakiyeyi kesin borç kabul ettirmeyi amaçlayan belirsiz belgelerden kaçınılmalıdır."],
+      ["Takip veya dava öncesi","Görevli merci, yetki, zamanaşımı ve dava şartı arabuluculuk uygulanıp uygulanmadığı kontrol edilmelidir. Her ticari uyuşmazlık aynı dava şartlarına tabi değildir. Belgelerin kronolojik dosyalanması, alacağın hangi kısmının çekişmeli olduğunu görünür kılar ve hem müzakere hem yargılama stratejisinin daha sağlıklı kurulmasını sağlar."]
+    ],"sources":["trade","tbk","mediation"]
+  },
+  {
+    "slug":"borclunun-temerrudu-ve-fesih", "title":"Borçlunun temerrüdü: ihtar, ek süre ve sözleşmenin sona ermesi", "author":"Av. Görkem Mehmet Güneş", "category":"Borçlar Hukuku",
+    "summary":"Ödemenin veya teslimin gecikmesi halinde hangi hukuki koşullar değerlendirilir?",
+    "sections":[
+      ["Gecikmenin hukuki değerlendirilmesi","Bir edimin zamanında yerine getirilmemesi halinde ilk incelenecek husus borcun muaccel olup olmadığıdır. Muacceliyet, alacaklının ifayı talep edebileceği aşamayı ifade eder. Temerrüdün oluşması için kural olarak ihtar gerekir; belirli vade ve kanunda düzenlenen diğer haller bu kuralın istisnalarını oluşturabilir. Her gecikmenin aynı anda bütün yaptırımları doğurduğu kabul edilmemelidir."],
+      ["İhtarın içeriği","İhtar, sözleşmeyi ve yerine getirilmeyen borcu somutlaştırmalı; talep edilen ifayı açıkça belirtmelidir. Kimin adına ve kime gönderildiği önemlidir. Tacirler arasındaki belirli ihbar ve ihtarlar için ticaret mevzuatındaki usuller ayrıca dikkate alınmalıdır. Gönderim ile karşı tarafa ulaşma kayıtlarının saklanması, bildirimin ispatında önem taşır."],
+      ["Ek süre ve seçimlik haklar","Karşılıklı borç yükleyen sözleşmelerde ek süre verilmesi gerekip gerekmediği ve süre verilmesini gereksiz kılan bir hal bulunup bulunmadığı incelenmelidir. İfanın istenmesi, tazminat veya sözleşmeden dönme gibi seçeneklerin koşulları farklıdır. Sürekli edimli ilişkilerde fesih ve sona ermenin sonuçları ayrıca değerlendirilir. Bir seçeneğin kullanılması diğer taleplerin kapsamını etkileyebilir."],
+      ["Zararın belgelendirilmesi","Gecikmenin yol açtığı ek maliyetler ve alınan önlemler kayıt altına alınmalıdır. Faiz, cezai şart ve zarar talebi birbirine karıştırılmadan hesaplanmalıdır. Fesih bildirimi gönderilmeden önce karşı tarafın değil, bildirimi yapan tarafın kendi edimlerini yerine getirip getirmediği de incelenmelidir. Haksız veya erken fesih, talepte bulunan taraf bakımından yeni bir sorumluluk doğurabilir."]
+    ],"sources":["tbk","trade"]
+  },
+  {
+    "slug":"anlasmali-bosanma-protokolu", "title":"Anlaşmalı boşanma protokolünde açıklık ve uygulanabilirlik", "author":"Av. Bensu Çoban", "category":"Aile Hukuku",
+    "summary":"Nafaka, tazminat ve çocuklara ilişkin düzenlemelerin açık biçimde kurulması.",
+    "sections":[
+      ["Anlaşmalı boşanmanın koşulları","Türk Medeni Kanununun 166/3. maddesi kapsamında anlaşmalı boşanma için evliliğin en az bir yıl sürmüş olması gerekir. Eşlerin birlikte başvurması veya bir eşin diğerinin davasını kabul etmesi yanında, hakimin tarafları bizzat dinlemesi ve iradelerinin serbestçe açıklandığına kanaat getirmesi aranır. Protokolün imzalanması tek başına evliliği sona erdirmez."],
+      ["Mali düzenlemeler","Nafaka ve tazminat bakımından tutar, ödeme tarihi, yöntem ve varsa artış koşulları açıklaştırılmalıdır. Eşya teslimi veya taşınmaz devri gibi edimler söz konusuysa bunların hangi tarihte ve hangi işlemle yerine getirileceği belirlenmelidir. 'Tarafların hiçbir alacağı yoktur' biçimindeki geniş ifadeler, kapsamı değerlendirilmeden kullanılmamalıdır."],
+      ["Çocuklara ilişkin hükümler","Velayet, kişisel ilişki ve çocuğun giderlerine katılım düzenlenirken çocuğun ihtiyaçları esas alınır. Hakim, çocukların ve tarafların menfaatlerini gözeterek gerekli gördüğü değişiklikleri önerebilir. Görüşme günleri, tatil dönemleri ve teslim düzeninin uygulanabilir olması, karar sonrası yeni uyuşmazlıkların önlenmesine katkı sağlar."],
+      ["Mal rejimi taleplerinin ayrılması","Mal rejiminin tasfiyesi, ziynet ve diğer malvarlığı taleplerinin protokolde ele alınıp alınmadığı açıkça belirlenmelidir. Bir hakkın saklı tutulması ile o haktan vazgeçilmesi aynı sonucu doğurmaz. Her düzenlemenin kesinleşme, ifa ve icra yönünden sonuçları değerlendirilmelidir. Protokol, yalnızca boşanma iradesini değil, tarafların sonrasında yerine getireceği yükümlülükleri de anlaşılır şekilde göstermelidir."]
+    ],"sources":["tmk"]
+  },
+  {
+    "slug":"velayet-ve-kisisel-iliski", "title":"Velayet ve kişisel ilişkide çocuğun üstün yararı", "author":"Av. Bensu Çoban", "category":"Aile Hukuku",
+    "summary":"Çocuğun bakım, eğitim ve güvenlik ihtiyaçları çerçevesinde velayetin değerlendirilmesi.",
+    "sections":[
+      ["Değerlendirmenin odağı","Velayet uyuşmazlığında temel mesele, ebeveynlerden hangisinin haklı olduğunu ilan etmek değil, çocuğun sağlıklı gelişimini sağlayacak düzenin kurulmasıdır. Bakım sürekliliği, eğitim, sağlık, güvenlik ve çocuğun sosyal çevresi birlikte değerlendirilir. Ebeveynlerin gelir düzeyi önem taşıyabilse de tek başına sonucu belirleyen bir ölçüt olarak kabul edilmemelidir."],
+      ["Somut bilgi ve uzman incelemesi","Çocuğun günlük bakımının nasıl yürütüldüğü, okul ve sağlık ihtiyaçlarının kim tarafından karşılandığı somut belgelerle ortaya konulabilir. Gerekli durumlarda uzman değerlendirmeleri alınır. Çocuğun yaşı ve olgunluğuna uygun biçimde görüşünün değerlendirilmesi de önemlidir. Çocuk, taraflar arasındaki çekişmede bilgi taşıyan veya baskı altında tercih yapması beklenen kişi haline getirilmemelidir."],
+      ["Kişisel ilişkinin kurulması","Velayeti kullanmayan ebeveyn ile kişisel ilişki, çocuğun ebeveyniyle bağını sürdürebilmesine hizmet eder. Takvim hazırlanırken okul düzeni, mesafe, yaş ve sağlık koşulları dikkate alınmalıdır. Nafaka ödemesi ile kişisel ilişki ayrı yükümlülük ve hak alanlarıdır; aralarında kendiliğinden bir şart ilişkisi kurulmamalıdır. Güvenlik riski varsa uygun koruyucu tedbirler ayrıca değerlendirilir."],
+      ["Koşullar değiştiğinde","Karardan sonra ortaya çıkan önemli değişiklikler velayet veya kişisel ilişkinin yeniden değerlendirilmesini gerektirebilir. Ancak her anlaşmazlık bu sonucu doğurmaz; değişikliğin çocuğa etkisi gösterilmelidir. Ebeveynler arası iletişimin kayıtlı, ölçülü ve çocuğun ihtiyaçlarına odaklı yürütülmesi, kararın uygulanmasını kolaylaştırır ve çocuğun çatışmaya maruz kalmasını azaltır."]
+    ],"sources":["tmk"]
+  },
+  {
+    "slug":"kira-tespit-davasina-hazirlik", "title":"Kira bedelinin tespiti davasında dönem, emsal ve bildirim", "author":"Av. Meryem Sevimli", "category":"Kira Hukuku",
+    "summary":"Kira artışı ile kira tespitinin ayrılması ve talebin hangi döneme etkili olacağının belirlenmesi.",
+    "sections":[
+      ["Artış ve tespit farklı meselelerdir","Konut ve çatılı işyeri kiralarında kira bedelinin belirlenmesi Türk Borçlar Kanununun 344 ve 345. maddeleri çerçevesinde değerlendirilir. Yıllık artışın sınırları ile beş yıldan uzun süreli veya beş yıldan sonra yenilenen sözleşmelerde emsal ve hakkaniyet değerlendirmesi aynı değildir. Piyasadaki kira artışı, devam eden sözleşmedeki bedelin tek taraflı olarak istenen seviyeye çıkarılmasına imkan vermez."],
+      ["Hangi dönem için talepte bulunuluyor?","Sözleşmenin başlangıcı, yenileme günü ve artış kaydı belirlenmelidir. Davanın ve yazılı bildirimin zamanlaması, mahkemenin belirleyeceği bedelin hangi dönemin başlangıcından itibaren uygulanacağını etkiler. Bu nedenle yalnızca dava tarihine değil, sözleşme hükümleri ve bildirim belgelerine de bakılmalıdır. Dava şartı arabuluculuk süreci takvim değerlendirmesine dahil edilmelidir."],
+      ["Emsallerin uygunluğu","Emsal araştırmasında aynı bölgedeki taşınmazların konumu, büyüklüğü, kullanım niteliği ve fiziksel özellikleri karşılaştırılır. İlan bedeli ile fiilen kurulmuş kira sözleşmesindeki bedel aynı delil değerine sahip olmayabilir. Taşınmazın mevcut hali ve önceki kira ilişkisi de inceleme konusudur. Emsallerin adres ve tarih bilgileriyle sunulması değerlendirmeyi kolaylaştırır."],
+      ["Hazırlık dosyası","Kira sözleşmesi ve ekleri, ödeme kayıtları, ihtarlar, tebliğ belgeleri ve taşınmaz bilgileri birlikte toplanmalıdır. Talep edilen bedelin gerekçesi somutlaştırılmalıdır. Kira tespiti, tahliye ve geçmiş kira alacağının tahsili farklı taleplerdir; birinin açılması diğerinin kendiliğinden gerçekleştiği anlamına gelmez. İzlenecek yol uyuşmazlığın kapsamına göre belirlenmelidir."]
+    ],"sources":["tbkcurrent","mediation"]
+  },
+  {
+    "slug":"site-aidati-ve-ortak-giderler", "title":"Site aidatı ve ortak gider uyuşmazlıklarında belge ve yetki", "author":"Av. Meryem Sevimli", "category":"Kat Mülkiyeti Hukuku",
+    "summary":"Yönetim planı, kararlar ve gider kayıtları üzerinden aidat borcunun değerlendirilmesi.",
+    "sections":[
+      ["Aidatın dayanağını belirlemek","Site veya apartman aidatı değerlendirilirken yönetim planı, kat malikleri kurulu kararları, işletme projesi ve gider belgeleri birlikte incelenmelidir. Talep edilen tutarın hangi döneme ve hangi hizmete ait olduğu gösterilmelidir. Giderlerin paylaşımında her kalemin eşit dağıtılacağı veya tamamının arsa payına göre bölüneceği varsayımıyla hareket edilmemelidir."],
+      ["Malik ve kiracının durumu","Bağımsız bölüm malikinin yönetime karşı yükümlülükleri ile malik ve kiracı arasındaki kira sözleşmesinden doğan gider paylaşımı birbirinden ayrılmalıdır. Kiracının yönetim karşısındaki sorumluluğunun kapsamı ayrıca incelenir. Kira sözleşmesindeki bir hükmün bütün sonuçlarıyla site yönetimini bağladığı kabul edilmemelidir. Tahsil edilen tutarların mükerrer istenmemesi için hesap kayıtları açık tutulmalıdır."],
+      ["Karara itiraz ve ödeme","Kararın usulüne uygun alınıp alınmadığı, katılım, oy ve bildirim belgeleri üzerinden değerlendirilir. Karara karşı başvuru yapılması ile borcun tahsiline karşı savunma farklı süreçlerdir. Bir itirazın bütün ödeme yükümlülüklerini kendiliğinden durdurduğu varsayılmamalıdır. Başvuru süreleri ve talebin hukuki niteliği somut karar bakımından belirlenmelidir."],
+      ["Yönetim için düzenli kayıt","Yönetici seçimi ve temsil yetkisi, bütçe, tahakkuk çizelgesi, banka hareketleri ve gider faturalarının düzenli tutulması uyuşmazlıkların çözümünü kolaylaştırır. Alacak takibinde anapara, dönem ve varsa gecikme talebi ayrı gösterilmelidir. Kat mülkiyetinden kaynaklanan davalarda dava şartı arabuluculuk kapsamı da incelenmelidir. Şeffaf hesap sunumu, yalnızca tahsilat için değil maliklerin denetim hakkı bakımından da önemlidir."]
+    ],"sources":["kmk","mediation"]
+  },
+  {
+    "slug":"odeme-emri-tebliginde-ilk-inceleme", "title":"Ödeme emri tebliğ edildiğinde ilk hukuki inceleme", "author":"Stj. Av. Hasan Özer", "category":"İcra Hukuku",
+    "summary":"Takip türü, tebliğ tarihi ve borç kalemlerinin doğru belirlenmesi.",
+    "sections":[
+      ["Önce takip türü","Ödeme emri veya icra emri alındığında belgenin hangi takip yoluna ait olduğu belirlenmelidir. Genel haciz yoluyla ilamsız takip, kambiyo senedine dayalı takip ve ilamlı icra aynı itiraz ve şikayet düzenine tabi değildir. İnternetten bulunan tek bir itiraz örneğinin bütün takip türlerinde kullanılabileceği düşünülmemelidir."],
+      ["Tebliğ tarihinin önemi","Süre hesabında usulüne uygun tebliğ tarihi esas alınır. Fiziki tebligat ve elektronik tebligatın kuralları farklılaşabilir. Belgenin görüldüğü veya avukata iletildiği günün otomatik olarak süre başlangıcı olduğu kabul edilmemelidir. Tebligat zarfı, mazbata ve elektronik kayıtlar ödeme emriyle birlikte saklanmalıdır."],
+      ["Borca ilişkin inceleme","Alacaklı, borçlu, anapara, faiz başlangıcı, faiz türü ve takip dayanağı kontrol edilmelidir. Daha önce yapılmış ödemeler, mahsuplar ve varsa imzaya ilişkin itirazlar ayrı değerlendirilir. Borcun bir bölümüne itiraz ediliyorsa tartışmalı bölümün belirlenmesi önem taşır. Yetki itirazı ve zamanaşımı savunması da kendilerine özgü koşullarla ele alınmalıdır."],
+      ["Başvurunun doğru yere yapılması","Genel haciz yoluyla ilamsız takipte itiraz için kural olarak yedi günlük süre bulunurken, başka takip yollarında farklı süre ve merciler söz konusu olabilir. Başvurunun icra dairesine mi yoksa mahkemeye mi yapılacağı takip türüne göre belirlenmelidir. Alacaklıyla görüşmeye başlanması veya ödeme planı konuşulması, sürelerin kendiliğinden durduğu anlamına gelmez. Bu nedenle dosyanın gecikmeden bütün belgeleriyle incelenmesi gerekir."]
+    ],"sources":["iik"]
+  },
+  {
+    "slug":"miras-ortakligi-ve-paylasim", "title":"Miras ortaklığında taşınmazların yönetimi ve paylaşılması", "author":"Stj. Av. Hasan Özer", "category":"Miras Hukuku",
+    "summary":"Mirasçılık belgesi, elbirliği mülkiyeti ve paylaşım seçeneklerine ilişkin temel çerçeve.",
+    "sections":[
+      ["Mirasçılık ile paylaşımın ayrılması","Mirasçılık belgesi, mirasçıları ve miras paylarını gösterir. Ancak belgenin alınması, terekeye dahil her malın mirasçılar arasında fiilen paylaşıldığı anlamına gelmez. Birden fazla mirasçı varsa paylaşmaya kadar miras ortaklığı gündeme gelir. Taşınmazların kayıt durumu ve mirasçıların tamamı belirlenmeden belirli bir dairenin yalnızca bir mirasçıya ait olduğu varsayılmamalıdır."],
+      ["Yönetim ve tasarruf","Elbirliği mülkiyetinde ortaklık payı ile belirli bir mal üzerindeki bağımsız tasarruf yetkisi aynı değildir. Satış, kiralama ve diğer işlemlerde uygulanacak temsil ve katılım kuralları işlem bazında değerlendirilmelidir. Bir mirasçının taşınmazı tek başına kullanması, diğer mirasçıların haklarını kendiliğinden ortadan kaldırmaz. Kullanım ve gelir kayıtlarının tutulması sonradan yapılacak hesaplaşmada önem taşır."],
+      ["Anlaşma yoluyla paylaşım","Mirasçılar anlaşabiliyorsa malvarlığı, borçlar ve değer farkları birlikte değerlendirilerek paylaşım planı oluşturulabilir. Taşınmaz işlemlerindeki şekil ve tescil koşulları gözetilmelidir. Sadece sözlü aile içi mutabakata dayanılması, sonraki devir veya miras olaylarında ispat sorunlarına yol açabilir. Paylaşımın hangi malları kapsadığı açıkça gösterilmelidir."],
+      ["Uyuşmazlık halinde","Ortaklığın giderilmesi talebinde dava şartı arabuluculuk ve sonrasında izlenebilecek yargısal yol incelenir. Aynen paylaşımın mümkün olup olmadığı ve satış seçeneği, malın özellikleriyle birlikte değerlendirilir. Mirasın reddi, tereke borçları veya mirasçılık sıfatına ilişkin uyuşmazlık varsa bunlar paylaşım meselesinden ayrıca ele alınmalıdır. Dosya hazırlığında tapu kayıtları, mirasçılık belgeleri ve değer bilgileri birlikte toplanmalıdır."]
+    ],"sources":["tmk","mediation"]
+  }
+]
