@@ -13,3 +13,4 @@ Deploy komutu:
 
 ## İçerik
 Blog kaynak verileri `content/`, blog üretim betiği `scripts/` dizinindedir.
+GitHub → Cloudflare otomatik dağıtım aktiftir.
