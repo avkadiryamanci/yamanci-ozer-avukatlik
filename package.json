@@ -3,6 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
+    "build": "python build-blog.py",
+    "check:deploy": "wrangler deploy --dry-run",
+    "predeploy": "npm run build",
     "deploy": "wrangler deploy"
   },
   "devDependencies": {
