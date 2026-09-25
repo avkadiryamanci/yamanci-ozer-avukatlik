@@ -178,5 +178,65 @@
       ["Anlaşma yoluyla paylaşım","Mirasçılar anlaşabiliyorsa malvarlığı, borçlar ve değer farkları birlikte değerlendirilerek paylaşım planı oluşturulabilir. Taşınmaz işlemlerindeki şekil ve tescil koşulları gözetilmelidir. Sadece sözlü aile içi mutabakata dayanılması, sonraki devir veya miras olaylarında ispat sorunlarına yol açabilir. Paylaşımın hangi malları kapsadığı açıkça gösterilmelidir."],
       ["Uyuşmazlık halinde","Ortaklığın giderilmesi talebinde dava şartı arabuluculuk ve sonrasında izlenebilecek yargısal yol incelenir. Aynen paylaşımın mümkün olup olmadığı ve satış seçeneği, malın özellikleriyle birlikte değerlendirilir. Mirasın reddi, tereke borçları veya mirasçılık sıfatına ilişkin uyuşmazlık varsa bunlar paylaşım meselesinden ayrıca ele alınmalıdır. Dosya hazırlığında tapu kayıtları, mirasçılık belgeleri ve değer bilgileri birlikte toplanmalıdır."]
     ],"sources":["tmk","mediation"]
+  },
+  {
+    "slug":"kentsel-donusum-kira-yardimi-ve-tahliye-destegi", "title":"Kentsel dönüşümde kira yardımı ve tahliye desteği: başvuru öncesi kontrol listesi", "author":"Av. Arb. Kadir Yamancı", "category":"Kentsel Dönüşüm", "datePublished":"2026-09-25",
+    "summary":"Riskli yapı sürecinde malik, kiracı ve sınırlı ayni hak sahiplerinin destek başvurularında dikkat etmesi gereken belgeler ve süreler.",
+    "sections":[
+      ["Destek hakkı dosyaya göre belirlenir","Kentsel dönüşüm kapsamında kira yardımı veya diğer desteklerden yararlanma koşulları; yapının riskli yapı statüsü, başvuranın sıfatı, fiili kullanım ve güncel idari düzenlemeler birlikte incelenerek belirlenir. Malik, kiracı ve sınırlı ayni hak sahibi için aynı belge ve ödeme düzeninin geçerli olduğu varsayılmamalıdır. Başvuru öncesinde taşınmazın hangi işlem kapsamında tahliye edildiği netleştirilmelidir."],
+      ["Tahliye ve ikamet belgeleri","Riskli yapıya ilişkin tespit ve kesinleşme kayıtları, tapu veya kira ilişkisini gösteren belgeler, tahliye tarihini destekleyen kayıtlar ve idarenin istediği diğer belgeler birlikte hazırlanmalıdır. Adres kayıtları ile fiili kullanım arasında fark varsa bunun baştan açıklanması önemlidir. Elektrik, su veya doğal gaz kapatma belgeleri tek başına her durumda yeterli kabul edilmeyebilir."],
+      ["Başvuru süresi ve yetkili birim","Başvurunun hangi idareye ve hangi süre içinde yapılacağı yapının bulunduğu yer ile güncel uygulama düzenine göre kontrol edilmelidir. İnternette önceki yıllara ait tutar ve süre bilgilerinin güncel olduğu varsayılmamalıdır. Başvurunun teslim edildiğini gösteren kayıt, ekler listesi ve varsa eksiklik bildirimi saklanmalıdır."],
+      ["Sözleşmedeki kira ödemesiyle karıştırılmamalı","İdari kira yardımı ile yüklenicinin sözleşme kapsamında üstlendiği kira veya taşınma ödemesi farklı hukuki kaynaklara dayanır. Birinden yararlanılması diğer talebi otomatik olarak ortadan kaldırmayabilir; sözleşmedeki mahsup ve birlikte talep hükümleri ayrıca incelenmelidir. Maliklerin teklifleri karşılaştırırken destek kalemini yüklenicinin kendi edimi gibi değerlendirmemesi gerekir."]
+    ],
+    "faq":[
+      ["Kira yardımı tutarı her yıl aynı mıdır?","Hayır. Tutarlar ve uygulama koşulları güncellenebilir; başvuru tarihinde yetkili idarenin yayımladığı güncel bilgiler esas alınmalıdır."],
+      ["Kiracı da kentsel dönüşüm desteğine başvurabilir mi?","Kiracıların yararlanabileceği destek türü ve koşulları maliklerden farklı olabilir. Fiili kullanım, tahliye ve başvuru belgeleri somut dosyada kontrol edilmelidir."],
+      ["Yüklenicinin kira ödemesi devlet kira yardımının yerine geçer mi?","Bu sonuç kendiliğinden doğmaz. Sözleşmedeki ödeme, mahsup ve feragat hükümleri ile idari yardım koşulları birlikte değerlendirilmelidir."]
+    ],"sources":["risk","law6306","reg6306"]
+  },
+  {
+    "slug":"arsa-payi-karsiligi-insaat-sozlesmesinde-fesih", "title":"Arsa payı karşılığı inşaat sözleşmesinde fesih ve tapu riskleri", "author":"Av. Arb. Kadir Yamancı", "category":"İnşaat Hukuku", "datePublished":"2026-09-25",
+    "summary":"Yüklenicinin gecikmesi veya işi bırakması halinde fesih seçeneği, tapu devirleri ve üçüncü kişilerin durumu nasıl değerlendirilir?",
+    "sections":[
+      ["Fesih sebebi somutlaştırılmalıdır","İnşaatın yavaş ilerlemesi, hiç başlamaması, ruhsatın alınmaması veya projenin sözleşmeye aykırı yürütülmesi aynı hukuki sonucu doğurmayabilir. Önce yüklenicinin hangi edimi hangi tarihte yerine getirmediği belirlenmelidir. Sözleşmedeki takvim, ek süre, ihtar ve mücbir sebep hükümleri birlikte okunmadan fesih bildirimi yapılması yeni bir uyuşmazlık doğurabilir."],
+      ["Sözleşmenin şekli ve sona erme yolu","Taşınmaz devri veya satış vaadi içeren sözleşmelerde resmi şekil ve tapu kayıtları önem taşır. Tarafların anlaşarak sona erdirmesi, tek taraflı bildirim ve mahkeme yoluyla sona erme aynı işlem değildir. Sözleşmenin niteliği, ifa seviyesi ve karşılıklı edimlerin durumu izlenecek yolu etkileyebilir."],
+      ["Yükleniciye devredilen paylar","İnşaat ilerledikçe yükleniciye arsa payı devredilmişse bu payların mevcut kaydı, üzerlerindeki ipotek veya hacizler ve üçüncü kişilere yapılan devirler ayrıca incelenmelidir. Fesih kararı verilmesinin tapu sicilindeki bütün kayıtları kendiliğinden ortadan kaldırdığı varsayılmamalıdır. Tapu iptal ve tescil taleplerinin tarafları ile üçüncü kişilerin iyi niyet iddiaları dosyaya göre değerlendirilir."],
+      ["Delil ve tedbir hazırlığı","Sözleşme ve ekleri, noter kayıtları, tapu hareketleri, ruhsat dosyası, şantiye seviyesi, ödeme belgeleri ve yazışmalar kronolojik biçimde toplanmalıdır. Mevcut inşaat seviyesinin teknik uzmanla tespiti gerekebilir. Tapu hareketi veya malvarlığı riski varsa geçici hukuki koruma seçenekleri, ölçülülük ve teminat koşullarıyla birlikte değerlendirilmelidir."]
+    ],
+    "faq":[
+      ["Yüklenici gecikince sözleşme hemen feshedilebilir mi?","Her gecikme kendiliğinden fesih hakkı doğurmaz. Vade, ihtar, ek süre, işin seviyesi ve sözleşme hükümleri birlikte incelenmelidir."],
+      ["Fesih yükleniciye devredilen tapuları otomatik geri getirir mi?","Hayır. Tapu kayıtları, üçüncü kişilere devirler ve talep edilecek hukuki koruma ayrıca değerlendirilir."],
+      ["İnşaat seviyesi nasıl ispatlanır?","Fotoğraf ve yazışmalara ek olarak gerektiğinde mahkeme yoluyla delil tespiti veya teknik uzman incelemesi kullanılabilir."]
+    ],"sources":["tbk","tapu"]
+  },
+  {
+    "slug":"ortakligin-giderilmesi-davasi-ve-arabuluculuk", "title":"Ortaklığın giderilmesi davası ve zorunlu arabuluculuk süreci", "author":"Av. Arb. Kadir Yamancı", "category":"Gayrimenkul Hukuku", "datePublished":"2026-09-25",
+    "summary":"Paylı veya elbirliği mülkiyetindeki taşınmazlarda arabuluculuk, aynen paylaşma ve satış yoluyla ortaklığın giderilmesi.",
+    "sections":[
+      ["Önce mülkiyet ve taraflar belirlenir","Ortaklığın giderilmesi hazırlığında güncel tapu kaydı, maliklerin kimlik ve adres bilgileri, pay oranları ve taşınmazın niteliği belirlenmelidir. Miras ortaklığında mirasçılık belgeleri ve tamamlanmamış intikal işlemleri ayrıca önem taşır. Tapu kaydındaki tüm hak sahipleri değerlendirilmeden yalnızca taşınmazı fiilen kullanan kişiler üzerinden süreç kurulamaz."],
+      ["Dava şartı arabuluculuk","Taşınır ve taşınmazların paylaştırılmasına ve ortaklığın giderilmesine ilişkin uyuşmazlıklarda dava açılmadan önce arabulucuya başvuru dava şartıdır. Başvuru, tarafların mutlaka anlaşacağı anlamına gelmez. Görüşmelerde aynen paylaşma, bir paydaşın diğer payları devralması, satış yöntemi veya kullanım düzeni gibi seçenekler değerlendirilebilir."],
+      ["Aynen paylaşma mı satış mı?","Taşınmazın bölünebilirliği yalnızca yüzölçümüne bakılarak belirlenmez; imar kuralları, kullanım biçimi ve değer kaybı da dikkate alınır. Aynen paylaşma mümkün değilse satış yoluyla ortaklığın giderilmesi gündeme gelebilir. Satışın yalnız paydaşlar arasında yapılması konusunda tüm paydaşların iradesi ve kanuni koşullar ayrıca değerlendirilir."],
+      ["Kullanım ve gider hesapları ayrı olabilir","Bir paydaşın taşınmazı tek başına kullanması, yapılan zorunlu veya faydalı giderler ve elde edilen gelirler ortaklığın giderilmesi talebinden ayrı hesaplaşma konuları doğurabilir. Her parasal talebin aynı dosyada kendiliğinden karara bağlanacağı varsayılmamalıdır. Kullanım ihtarları, kira kayıtları, vergi ve bakım belgeleri ayrı dosyalanmalıdır."]
+    ],
+    "faq":[
+      ["Ortaklığın giderilmesi davasından önce arabuluculuk zorunlu mu?","Evet. Bu uyuşmazlıklar için dava açılmadan önce arabulucuya başvuru dava şartıdır."],
+      ["Bir paydaş tek başına ortaklığın giderilmesini isteyebilir mi?","Kural olarak paydaşlardan biri talepte bulunabilir; ancak taraf teşkili ve istisnai kısıtlamalar somut tapu ve hukuki ilişkiye göre incelenir."],
+      ["Mahkeme taşınmazı mutlaka satar mı?","Hayır. Önce aynen paylaşmanın mümkün olup olmadığı değerlendirilir; mümkün değilse satış seçeneği gündeme gelir."]
+    ],"sources":["tmk","mediation","law6325"]
+  },
+  {
+    "slug":"tapu-iptal-ve-tescil-davasi-hazirlik", "title":"Tapu iptal ve tescil davası öncesinde belge ve kayıt incelemesi", "author":"Av. Arb. Kadir Yamancı", "category":"Gayrimenkul Hukuku", "datePublished":"2026-09-25",
+    "summary":"Tapu kaydının düzeltilmesi taleplerinde hukuki sebep, taraflar, deliller ve geçici koruma ihtiyacının belirlenmesi.",
+    "sections":[
+      ["Talebin hukuki sebebi belirlenir","Tapu iptal ve tescil tek bir uyuşmazlık türünün adı değildir. Muris muvazaası, vekalet görevinin kötüye kullanılması, ehliyetsizlik, sahtecilik iddiası, sözleşmeye aykırılık veya kadastro kaynaklı hata farklı koşul ve delillere tabidir. Yalnızca mevcut kaydın adaletsiz olduğu düşüncesi yeterli olmaz; kaydın hangi hukuki nedenle yolsuz olduğu somutlaştırılmalıdır."],
+      ["Güncel ve geçmiş tapu kayıtları","Taşınmazın güncel malikini, devir zincirini, yevmiye bilgilerini ve takyidatları gösteren kayıtlar incelenmelidir. Dayanak resmi senet, vekaletname, mirasçılık belgesi ve ilgili sözleşmeler dosyaya göre istenebilir. Ada ve parsel değişiklikleri varsa eski kayıtlarla bağlantı kurulmalıdır. Fiili kullanım bilgisi tapu kaydının yerine geçmez; ancak uyuşmazlığın açıklanmasında delil niteliği taşıyabilir."],
+      ["Doğru taraf ve üçüncü kişiler","Davanın kime yöneltileceği güncel tapu kaydı ve iddianın niteliğine göre belirlenir. Taşınmaz birden fazla kez devredilmişse sonraki maliklerin edinme biçimi ve iyi niyet iddiaları önem kazanabilir. Mirasçılara veya şirketlere ilişkin uyuşmazlıklarda temsil ve taraf sıfatı ayrıca kontrol edilmelidir."],
+      ["Süre ve geçici koruma","Hak düşürücü süre, zamanaşımı veya özel başvuru süresi bulunup bulunmadığı hukuki sebebe göre değişir; bütün tapu iptal davaları için tek bir süre olduğu söylenemez. Dava sırasında yeni devir riski varsa ihtiyati tedbir talebinin koşulları incelenebilir. Tedbir kararı davanın sonucunu peşinen belirlemez ve ölçülülük ile teminat yönünden ayrıca değerlendirilir."]
+    ],
+    "faq":[
+      ["Tapu iptal ve tescil davalarında tek bir zamanaşımı süresi var mı?","Hayır. Süre değerlendirmesi talebin hukuki sebebine ve somut olayın özelliklerine göre yapılır."],
+      ["Tapuda malik olmayan kişi davayı kazanabilir mi?","Talep eden kişinin hukuki hakkını ve kaydın neden düzeltilmesi gerektiğini uygun delillerle göstermesi gerekir; sonuç dosyanın hukuki sebebine bağlıdır."],
+      ["Dava açılınca taşınmazın satışı otomatik olarak durur mu?","Hayır. Devir riskine karşı ihtiyati tedbir ayrıca talep edilmeli ve mahkemece koşulları değerlendirilmelidir."]
+    ],"sources":["tmk","tapu"]
   }
 ]
