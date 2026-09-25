@@ -7,6 +7,7 @@ ROOT = Path(__file__).resolve().parent
 DIST = ROOT / 'dist'
 SITE_URL = 'https://yamanciozerhukuk.com'
 SOCIAL_IMAGE = SITE_URL + '/assets/amblem-lacivert.jpeg'
+ANALYTICS_SNIPPET = '<!-- Cloudflare Web Analytics --><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon=\'{"token":"2c5a28515a254cbbb4a0c2259c450d6d"}\'></script><!-- End Cloudflare Web Analytics -->'
 DIST.mkdir(exist_ok=True)
 (DIST / 'blog').mkdir(exist_ok=True)
 shutil.copytree(ROOT / 'assets' / 'assets', DIST / 'assets', dirs_exist_ok=True)
@@ -57,7 +58,7 @@ def page(title, description, body, path, schema=None, page_type='website'):
     h = h.replace('</head>', seo_tags(title + ' | Yamancı Özer', description, path, page_type)+'</head>')
     if schema:
         h = h.replace('</head>', '<script type="application/ld+json">'+json.dumps(schema, ensure_ascii=False).replace('<','\\u003c')+'</script></head>')
-    return h+'<body class="blog-page"><a class="skip" href="#icerik">İçeriğe geç</a>'+header+'<main id="icerik">'+body+'</main>'+footer+script+'</body></html>'
+    return h+'<body class="blog-page"><a class="skip" href="#icerik">İçeriğe geç</a>'+header+'<main id="icerik">'+body+'</main>'+footer+script+ANALYTICS_SNIPPET+'</body></html>'
 def card(a, compact=False):
     return '<article class="blog-card"><p class="category">'+esc(a['category'])+'</p><h3><a href="/blog/'+a['slug']+'/">'+esc(a['title'])+'</a></h3><p class="card-summary">'+esc(a['summary'])+'</p><div class="card-bottom"><p>'+esc(a['author'])+'</p><span aria-hidden="true">↗</span></div></article>'
 def tr_date(iso_date):
@@ -109,6 +110,8 @@ home = re.sub(r'<meta name="description" content="[^"]*">', '<meta name="descrip
 home = re.sub(r'<link rel="canonical"[^>]*>|<meta name="robots"[^>]*>|<meta property="og:[^"]+"[^>]*>|<meta name="twitter:[^"]+"[^>]*>', '', home)
 home_schema = {'@context':'https://schema.org','@type':'LegalService','name':'Yamancı | Özer Avukatlık & Arabuluculuk','url':SITE_URL,'image':SOCIAL_IMAGE,'email':'yönetim@yamanciozerhukuk.com','address':{'@type':'PostalAddress','streetAddress':'İkitelli OSB Mahallesi, Süleyman Demirel Bulvarı, İstmall AVM, Kat: 2, Daire: 199','addressLocality':'Başakşehir','addressRegion':'İstanbul','addressCountry':'TR'},'areaServed':'TR','knowsLanguage':'tr'}
 home = home.replace('</head>', seo_tags('Yamancı | Özer — Avukatlık & Arabuluculuk', home_description, '/')+'<script type="application/ld+json">'+json.dumps(home_schema, ensure_ascii=False).replace('<','\\u003c')+'</script></head>')
+home = re.sub(r'<!-- Cloudflare Web Analytics -->.*?<!-- End Cloudflare Web Analytics -->', '', home, flags=re.S)
+home = home.replace('</body>', ANALYTICS_SNIPPET+'</body>')
 (DIST/'index.html').write_text(home, encoding='utf-8')
 
 today = date.today().isoformat()
