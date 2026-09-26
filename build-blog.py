@@ -28,12 +28,17 @@ team_photos = {
     'HÖ': ('hasan-ozer.jpeg', 'Stj. Av. Hasan Özer'),
     'BÇ': ('bensu-coban.jpeg', 'Av. Bensu Çoban'),
     'MS': ('meryem-sevimli.jpeg', 'Av. Meryem Sevimli'),
-    'SK': ('songul-karakaya.jpeg', 'Songül Karakaya'),
+    'SK': ('songul-karakaya.png', 'Songül Karakaya'),
 }
 for initials, (filename, person_name) in team_photos.items():
     home = home.replace(
         f'<span class="initials" aria-hidden="true">{initials}</span>',
         f'<img class="team-photo" src="/assets/{filename}" alt="{person_name}" width="85" height="100" loading="lazy">',
+    )
+    home = re.sub(
+        rf'<img class="team-photo" src="[^"]+" alt="{re.escape(person_name)}" width="85" height="100" loading="lazy">',
+        f'<img class="team-photo" src="/assets/{filename}" alt="{person_name}" width="85" height="100" loading="lazy">',
+        home,
     )
 home = re.sub(r'<script type="application/ld\+json">.*?</script>', '', home, flags=re.S)
 if '<a href="/blog/">Blog</a>' not in home:
