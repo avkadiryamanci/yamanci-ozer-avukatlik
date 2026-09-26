@@ -2,8 +2,14 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "yamanci-ozer-avukatlik",
   "compatibility_date": "2026-09-25",
+  "main": "./worker.js",
   "assets": {
     "directory": "./dist",
+    "binding": "ASSETS",
     "not_found_handling": "404-page"
+  },
+  "vars": {
+    "CONTACT_TO_EMAIL": "info@yamanciozerhukuk.com",
+    "CONTACT_FROM_EMAIL": "Yamancı Özer Hukuk <iletisim@forms.yamanciozerhukuk.com>"
   }
 }
