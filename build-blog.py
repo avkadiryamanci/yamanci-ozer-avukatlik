@@ -22,6 +22,19 @@ home = home.replace(
     '<span class="initials" aria-hidden="true">MG</span>',
     '<img class="team-photo" src="/assets/gorkem-mehmet-gunes.png" alt="Av. Görkem Mehmet Güneş" width="85" height="100" loading="lazy">',
 )
+team_photos = {
+    'KY': ('kadir-yamanci.jpeg', 'Av. Arb. Kadir Yamancı'),
+    'FÖ': ('ferdi-ozer.jpeg', 'Av. Arb. Ferdi Özer'),
+    'HÖ': ('hasan-ozer.jpeg', 'Stj. Av. Hasan Özer'),
+    'BÇ': ('bensu-coban.jpeg', 'Av. Bensu Çoban'),
+    'MS': ('meryem-sevimli.jpeg', 'Av. Meryem Sevimli'),
+    'SK': ('songul-karakaya.jpeg', 'Songül Karakaya'),
+}
+for initials, (filename, person_name) in team_photos.items():
+    home = home.replace(
+        f'<span class="initials" aria-hidden="true">{initials}</span>',
+        f'<img class="team-photo" src="/assets/{filename}" alt="{person_name}" width="85" height="100" loading="lazy">',
+    )
 home = re.sub(r'<script type="application/ld\+json">.*?</script>', '', home, flags=re.S)
 if '<a href="/blog/">Blog</a>' not in home:
     home = home.replace('<a href="#iletisim">İletişim</a>', '<a href="/blog/">Blog</a><a href="#iletisim">İletişim</a>')
