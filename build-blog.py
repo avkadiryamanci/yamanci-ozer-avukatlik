@@ -11,7 +11,7 @@ ANALYTICS_SNIPPET = '<!-- Cloudflare Web Analytics --><script type="module" src=
 DIST.mkdir(exist_ok=True)
 (DIST / 'blog').mkdir(exist_ok=True)
 shutil.copytree(ROOT / 'assets' / 'assets', DIST / 'assets', dirs_exist_ok=True)
-for asset in ('style.css', 'blog.css', 'navigation.js'):
+for asset in ('style.css', 'blog.css', 'navigation.js', 'contact-form.js'):
     shutil.copy2(ROOT / asset, DIST / asset)
 
 articles = json.loads((ROOT / 'articles.json').read_text(encoding='utf-8'))
