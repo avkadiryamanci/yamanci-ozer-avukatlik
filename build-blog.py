@@ -18,6 +18,10 @@ articles = json.loads((ROOT / 'articles.json').read_text(encoding='utf-8'))
 sources = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
 esc = html.escape
 home = (DIST / 'index.html').read_text(encoding='utf-8')
+home = home.replace(
+    '<span class="initials" aria-hidden="true">MG</span>',
+    '<img class="team-photo" src="/assets/gorkem-mehmet-gunes.png" alt="Av. Görkem Mehmet Güneş" width="85" height="100" loading="lazy">',
+)
 home = re.sub(r'<script type="application/ld\+json">.*?</script>', '', home, flags=re.S)
 if '<a href="/blog/">Blog</a>' not in home:
     home = home.replace('<a href="#iletisim">İletişim</a>', '<a href="/blog/">Blog</a><a href="#iletisim">İletişim</a>')
